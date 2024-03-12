@@ -1,4 +1,4 @@
-# Predicting Amazon product rating
+# Predicting Amazon product ratings
 
 # Importing R libraries to be used for analysis
 library(readxl)
